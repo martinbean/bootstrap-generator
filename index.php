@@ -83,6 +83,10 @@
       </div>
     </div>
     <div class="container" id="main-wrap">
+      <div class="alert-message">
+        <a href="#" class="close">&times;</a>
+        <p><strong>Just a note:</strong> the Bootstrap Generator is for use with version 1.4 only. Twitter introduced a customized download facility with version 2.0 of Bootstrap, which you can find at <a href="http://twitter.github.com/bootstrap/download.html" rel="external">http://twitter.github.com/bootstrap/download.html</a>.</p>
+      </div>
 <?php if ($error): ?>
       <div class="alert-message error">
         <a href="#" class="close">&times;</a>
