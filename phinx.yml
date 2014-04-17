@@ -1,0 +1,15 @@
+paths:
+    migrations: %%PHINX_CONFIG_DIR%%/deployment/migrations
+
+environments:
+    default_migration_table: migrations
+    default_database: development
+
+    development:
+        adapter: mysql
+        host: localhost
+        name: bs_generator
+        user: root
+        pass: ''
+        port: 3306
+        charset: utf8
