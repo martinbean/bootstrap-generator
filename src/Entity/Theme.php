@@ -1,5 +1,5 @@
 <?php
-namespace \MCB\Bootstrap\Generator\Entity;
+namespace MCB\Bootstrap\Generator\Entity;
 
 class Theme extends Entity
 {

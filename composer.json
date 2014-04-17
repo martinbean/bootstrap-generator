@@ -1,5 +1,6 @@
 {
     "require": {
+        "pimple/pimple": "2.0.0",
         "robmorgan/phinx": "0.3.3"
     },
     "autoload": {
